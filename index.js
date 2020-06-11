@@ -94,7 +94,7 @@ Car.prototype.drive = function(distance) {
   } else if (distance >= max) {
     this.odometer += max;
     this.tank -= max / this.milesPerGallon;
-    return `My car has no gas left after driving ${max} miles.  My car now has ${this.odometer} miles and ${this.tank} gallon of gas.`;
+    return `My car has no gas left after driving ${max} miles.  My car now has ${this.odometer} miles and ${this.tank} gallon of gas left.`;
   };
   
 }
