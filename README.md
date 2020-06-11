@@ -48,6 +48,9 @@ Two options are included below.
   <img alt='instructions VSCode' src='./instructionsVScode.png'>
 </details>
 
+// *ADDED TASK 2* //
+
+
 ### Task 2a - MVP
 
 Find the file `index.js` and complete tasks 1, 2 and 3 until all of your tests pass.
